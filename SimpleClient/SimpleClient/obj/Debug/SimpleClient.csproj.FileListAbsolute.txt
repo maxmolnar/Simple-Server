@@ -1,0 +1,6 @@
+C:\Users\max\Desktop\Code\C#\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe.config
+C:\Users\max\Desktop\Code\C#\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
+C:\Users\max\Desktop\Code\C#\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
+C:\Users\max\Desktop\Code\C#\SimpleClient\SimpleClient\obj\Debug\SimpleClient.exe
+C:\Users\max\Desktop\Code\C#\SimpleClient\SimpleClient\obj\Debug\SimpleClient.pdb
+C:\Users\max\Desktop\Code\C#\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csprojResolveAssemblyReference.cache
