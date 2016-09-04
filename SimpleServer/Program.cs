@@ -44,8 +44,17 @@ public class SimpleTcpSrvr
         {
             data = new byte[1024];
             string response = "No one available";
+            recv = 0; 
             //this is where it breaks when the client disconnects
-            recv = client.Receive(data);
+            try {
+                recv = client.Receive(data);
+            } catch
+            {
+                Console.WriteLine("Disconnected from {0}",
+                          clientep.Address);
+                client.Close();
+                newsock.Close();
+            }
             if (recv == 0)
                 break;
             string recieved = Encoding.ASCII.GetString(data, 0, recv);

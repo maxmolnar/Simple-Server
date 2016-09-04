@@ -4,3 +4,9 @@ C:\Users\max\Desktop\Code\C#\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pd
 C:\Users\max\Desktop\Code\C#\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache
 C:\Users\max\Desktop\Code\C#\SimpleServer\SimpleServer\obj\Debug\SimpleServer.exe
 C:\Users\max\Desktop\Code\C#\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb
+C:\Users\max\Desktop\Code\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe.config
+C:\Users\max\Desktop\Code\SimpleServer\SimpleServer\obj\Debug\SimpleServer.exe
+C:\Users\max\Desktop\Code\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb
+C:\Users\max\Desktop\Code\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe
+C:\Users\max\Desktop\Code\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pdb
+C:\Users\max\Desktop\Code\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache
